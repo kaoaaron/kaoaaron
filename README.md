@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Aaron's+Github!)](https://git.io/typing-svg)
 
-![Profile Picture](https://imageupload.io/ib/iPW5nGqOnNKI34z_1693825336.jpeg) <!-- Add a link to your profile picture here -->
-
 I'm an Engineering graduate that decided to change careers to follow my passion of becoming a software developer. I have over 2 years of experience as a Full Stack Developer but I have been programming since 2012. My skills are now focused on web development, but my skills expand far beyond that. I have programmed in a wide variety of languages in the last decade, such as Swift, Java, JavaScript, C, C#, C++, Assembly, Bash, and pretty much everything you can think of!
 
 Here are my top languages according to my Github. Most of my work is private in company repositories so this doesn't truly reflect my current expertise in JavaScript.
